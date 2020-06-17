@@ -22,7 +22,7 @@ export const Container = styled.div`
 
 export const Separator = styled.div`
   width: 32px;
-  border-bottom: 2px var(--quarternary);
+  border-bottom: 2px solid var(--quaternary);
 
   margin-bottom: 8px;
 `;
