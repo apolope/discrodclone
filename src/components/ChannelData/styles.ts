@@ -67,4 +67,5 @@ export const Input = styled.input`
 
 export const IpuntIcon = styled(AlternateEmail)`
   width: 20px;
+  color: var(--gray);
 `;
